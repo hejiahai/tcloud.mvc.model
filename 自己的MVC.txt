@@ -1,0 +1,15 @@
+今天任务：搭建后台管理框架
+1.
+
+http://localhost:51126/Base_SysManage/Base_User/Index
+https://localhost:44347/Base_SysManage/adminn/Loginn
+https://localhost:44347/subAreas/Base_SysManage1/adminn1/Loginn
+
+
+https://localhost:44347/Base_SysManage/adminserver/login
+https://localhost:44347/admin/login
+https://localhost:44347/admin/default.html
+
+select * From Base_PermissionUser
+select * From Base_UserRoleMap
+select * From Base_PermissionRole
